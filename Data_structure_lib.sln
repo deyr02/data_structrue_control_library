@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data_structure_lib", "Data_structure_lib\Data_structure_lib.csproj", "{BBF00F88-428E-4B13-93A8-83F60ADE6E10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data_stricture_main", "Data_stricture_main\Data_stricture_main.csproj", "{97D8EF91-C2E8-4636-8427-2C7648835D8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBF00F88-428E-4B13-93A8-83F60ADE6E10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBF00F88-428E-4B13-93A8-83F60ADE6E10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBF00F88-428E-4B13-93A8-83F60ADE6E10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBF00F88-428E-4B13-93A8-83F60ADE6E10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97D8EF91-C2E8-4636-8427-2C7648835D8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97D8EF91-C2E8-4636-8427-2C7648835D8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97D8EF91-C2E8-4636-8427-2C7648835D8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97D8EF91-C2E8-4636-8427-2C7648835D8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
